@@ -52,3 +52,6 @@ github地址：[github主页](https://github.com/devShaolongXu)
 | 39   | react native                                    |              |      |
 | 40   | electron                                        |              |      |
 
+## 语雀知识库
+
+语雀知识库地址：[语雀知识库](https://www.yuque.com/tumihuale-drccd/pnilwb?# 《前端笔记》)
